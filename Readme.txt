@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Created the very convenient Bootstrap framework
 
 Template Name: Kelly
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
